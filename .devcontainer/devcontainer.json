@@ -1,6 +1,6 @@
 {
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "dockerfile"
   },
   "postStartCommand": ".devcontainer/post_start.sh",
   "containerUser": "vscode",
